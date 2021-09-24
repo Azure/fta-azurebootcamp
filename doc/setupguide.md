@@ -8,4 +8,3 @@
 1. Manage costs and billing
 1. Plan governance, security, and compliance
 1. Establish monitoring and reporting
-1. Stay current with Azure
