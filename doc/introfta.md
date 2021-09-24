@@ -1,3 +1,3 @@
-#
+ Intro to FTA (FastTrack for Azure) - 5 minutes
 
-#### [prev](./security.md) | [home](./welcome.md)  | [next](./faq.md)
+#### [prev](./welcome.md) | [home](./welcome.md)  | [next](./introcaf.md)

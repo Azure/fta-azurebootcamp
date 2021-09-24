@@ -1,3 +1,3 @@
-#
+# Intro to WAF (Workload approach) - 15 minutes
 
-#### [prev](./security.md) | [home](./welcome.md)  | [next](./faq.md)
+#### [prev](./introcaf.md) | [home](./welcome.md)  | [next](./learningresources.md)

@@ -1,3 +1,3 @@
-#
+# Intro to CAF (Digital transformation) - 15 minutes
 
-#### [prev](./security.md) | [home](./welcome.md)  | [next](./faq.md)
+#### [prev](./introfta.md) | [home](./welcome.md)  | [next](./introwaf.md)

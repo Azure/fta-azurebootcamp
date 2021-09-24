@@ -1,3 +1,3 @@
-#
+# Closing - 10 mins
 
-#### [prev](./security.md) | [home](./welcome.md)  | [next](./faq.md)
+#### [prev](./azurelandingzones.md) | [home](./welcome.md)  | [next](./welcome.md)

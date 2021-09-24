@@ -1,3 +1,3 @@
-#
+# Azure learning resources - 10 minutes
 
-#### [prev](./security.md) | [home](./welcome.md)  | [next](./faq.md)
+#### [prev](./introwaf.md) | [home](./welcome.md)  | [next](./landingzones.md)

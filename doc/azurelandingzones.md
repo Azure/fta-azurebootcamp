@@ -1,3 +1,3 @@
-#
+# Azure Landing Zones - 20 minutes
 
-#### [prev](./security.md) | [home](./welcome.md)  | [next](./faq.md)
+#### [prev](./setupguide.md) | [home](./welcome.md)  | [next](./closing.md)
