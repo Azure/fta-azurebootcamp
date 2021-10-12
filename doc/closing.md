@@ -2,6 +2,6 @@
 
 #### [prev](./azurelandingzones.md) | [home](./welcome.md)  | [next](./welcome.md)
 
-1. There is more to learn
-1. Get an Azure subscription
-1. Review your Azure readiness
+- There is more to learn.
+- Get an Azure subscription.
+- Review your Azure readiness.
