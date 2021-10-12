@@ -5,7 +5,7 @@
 3. [Solutions Supported](https://azure.microsoft.com/en-us/programs/azure-fasttrack/#supported-solutions)
 4. [The FastTrack for Azure Journey](/FTAJourney.png)
 
-![FTAProjectJourney](/fta-azurebootcamp/doc/FTAJourney.png)
+![FTAProjectJourney](/doc/FTAJourney.png)
 
 6. [In Scope vs Out of Scope](https://azure.microsoft.com/en-us/programs/azure-fasttrack/#faqs)
 7. [Roles and Responsibilities](https://azure.microsoft.com/en-us/resources/fasttrack-for-azure-service-level-description)
