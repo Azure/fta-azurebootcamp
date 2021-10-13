@@ -6,7 +6,8 @@
     * [Cloud strategy anitpatterns](https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/antipatterns/strategy-antipatterns#antipattern-adopt-the-cloud-without-establishing-goals) 
   * [Plan](https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/plan/)
     * [Cloud adoption plan antipatterns](https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/antipatterns/plan-antipatterns)
-
+  * [Ready](https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/ready/)
+    * [Cloud readiness antipatterns](https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/antipatterns/ready-antipatterns)
 
 
 
