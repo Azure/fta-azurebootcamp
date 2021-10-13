@@ -7,4 +7,4 @@
 1. [Azure learning resources - 10 minutes](./learningresources.md)
 1. [Azure Setup Guide - 30 minutes](./setupguide.md)
 1. [What is a landing zone? - 30 minutes](./landingzones.md)
-1. [Start Now - 10 mins](./closing.md)
+1. [Start now - 10 mins](./closing.md)
