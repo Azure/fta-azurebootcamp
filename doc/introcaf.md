@@ -3,7 +3,7 @@
 [Cloud Adoption Framework Overview](https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/overview)
    * [Cloud adoption scenarios](https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/get-started/#cloud-adoption-scenarios)
   * [Strategy](https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/strategy/)  
-    * [Cloud adoption strategy anitpatterns](https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/antipatterns/strategy-antipatterns#antipattern-adopt-the-cloud-without-establishing-goals) 
+    * [Cloud strategy anitpatterns](https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/antipatterns/strategy-antipatterns#antipattern-adopt-the-cloud-without-establishing-goals) 
   * [Plan](https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/plan/)
     * [Cloud adoption plan antipatterns](https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/antipatterns/plan-antipatterns)
 
