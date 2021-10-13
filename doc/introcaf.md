@@ -12,13 +12,13 @@
     * [Migrate antipatterns](https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/antipatterns/migrate-antipatterns)
     * [Innovation guide](https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/innovate/innovation-guide/)
    * [Govern](https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/govern/)
-    * [Govern antipatterns](https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/antipatterns/govern-antipatterns)
+      * [Govern antipatterns](https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/antipatterns/govern-antipatterns)
    * [Manage](https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/manage/)
-    * [Manage antipatterns](https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/antipatterns/manage-antipatterns)
+     * [Manage antipatterns](https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/antipatterns/manage-antipatterns)
    * [Secure](https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/secure/)
-    * [Considerations](https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/strategy/define-security-strategy)
+     * [Considerations](https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/strategy/define-security-strategy)
    * [Organise](https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/organize/)
-    * [Organise antipatterns](https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/antipatterns/organize-antipatterns) 
+      * [Organise antipatterns](https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/antipatterns/organize-antipatterns) 
 
 
 
