@@ -1,6 +1,6 @@
-# Azure Setup Guide - 30 minutes
+# Azure Setup Guide and Landing Zones - 60 minutes
 
-#### [prev](./landingzones.md) | [home](./welcome.md)  | [next](./closing.md)
+#### [prev](./learningresources.md) | [home](./welcome.md)  | [next](./closing.md)
 
 1. [Setup guide overview](https://ms.portal.azure.com/#blade/Microsoft_Azure_Resources/QuickstartPlaybookBlade/guideId/intro-azure-setup)
 1. Organize resources
