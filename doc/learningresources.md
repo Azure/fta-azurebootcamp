@@ -1,6 +1,6 @@
 # Azure learning resources - 10 minutes
 
-#### [prev](./introwaf.md) | [home](./welcome.md)  | [next](./landingzones.md)
+#### [prev](./introwaf.md) | [home](./welcome.md)  | [next](./setupguide.md)
 
 - [FTA Live](https://fasttrack.azure.com/live)
 - [Microsoft Docs](https://docs.microsoft.com/en-au/)
