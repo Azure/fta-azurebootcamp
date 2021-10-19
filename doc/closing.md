@@ -1,4 +1,4 @@
-# Closing - 10 mins
+# Start now - 10 mins
 
 #### [prev](./setupguide.md) | [home](./welcome.md)  | [next](./welcome.md)
 
