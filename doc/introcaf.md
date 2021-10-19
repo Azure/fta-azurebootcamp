@@ -1,5 +1,7 @@
 ## Intro to CAF (Digital transformation) - 15 minutes
 
+#### [prev](./introfta.md) | [home](./welcome.md)  | [next](./introwaf.md)
+
 [Cloud Adoption Framework Overview](https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/overview)
    * [Cloud adoption scenarios](https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/get-started/#cloud-adoption-scenarios)
    * [Cloud adoption antipatterns](https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/antipatterns/antipatterns-to-avoid)
@@ -10,4 +12,3 @@
 
 [Assessments](https://docs.microsoft.com/en-us/assessments/?mode=pre-assessment)
 
-#### [prev](./introfta.md) | [home](./welcome.md)  | [next](./introwaf.md)
