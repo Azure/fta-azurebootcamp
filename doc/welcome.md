@@ -1,4 +1,4 @@
-# FastTrack for Azure ATO Session
+# FastTrack for Azure Session
 
 **Agenda**
 1. [Intro to FastTrack for Azure](./introfta.md)
