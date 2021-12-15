@@ -5,6 +5,6 @@
 1. [Cloud Adoption Framework Intro](./introcaf.md)
 1. [Azure Well Architected Framework Intro](./introwaf.md)
 2. [Cost Optimisation](https://github.com/Azure/fta-cost-management)
-2. [Policy and Compliance]
-2. [Monitoring and Management]
+2. Policy and Compliance
+2. Monitoring and Management
 
