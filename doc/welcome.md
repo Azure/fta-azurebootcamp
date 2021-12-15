@@ -1,4 +1,4 @@
-# FastTrack Azure Deployments
+# FastTrack for Azure ATO Session
 
 **Agenda**
 1. [Intro to FastTrack for Azure](./introfta.md)
