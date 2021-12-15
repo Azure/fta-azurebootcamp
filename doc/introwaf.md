@@ -1,4 +1,4 @@
-# Intro to WAF (Workload approach) - 15 minutes
+# Intro to WAF
 
 #### [prev](./introcaf.md) | [home](./welcome.md)  | [next](https://github.com/Azure/fta-cost-management)
 
