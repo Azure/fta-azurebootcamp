@@ -1,4 +1,4 @@
-# Intro to CAF (Digital transformation) - 15 minutes
+# Intro to CAF
 
 #### [prev](./introfta.md) | [home](./welcome.md)  | [next](./introwaf.md)
 
