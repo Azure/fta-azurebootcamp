@@ -1,6 +1,6 @@
 # Intro to WAF (Workload approach) - 15 minutes
 
-#### [prev](./introcaf.md) | [home](./welcome.md)  | [next](./learningresources.md)
+#### [prev](./introcaf.md) | [home](./welcome.md)  | [next](https://github.com/Azure/fta-cost-management)
 
 [Well Architected Framework](https://docs.microsoft.com/en-us/azure/architecture/framework/)
   * [Reliability](https://docs.microsoft.com/en-us/azure/architecture/framework/resiliency/)
